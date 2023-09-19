@@ -1,0 +1,3 @@
+com\example\controllers\LoginController.class
+com\example\models\Authenticator.class
+com\example\models\User.class
